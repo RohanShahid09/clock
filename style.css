@@ -1,0 +1,68 @@
+.mainArea{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    display: flex;
+   
+}
+body{
+    background-color: rgb(69, 67, 67);
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#hr1{
+    position:absolute;
+    top: 5%;
+    left: 330px;}   
+#hr2{
+    position:absolute; 
+    top: 14%;
+    left: 380px;} 
+#hr3{
+    position:absolute; 
+    top: 25%;
+    left: 390px;}
+#hr4{
+    position:absolute; 
+    top: 35%;
+    left: 360px;}
+#hr5{
+    position:absolute; 
+    top: 43%;
+    left: 300px;}
+#hr6{
+    position:absolute;
+    top: 47%;
+    left: 200px;}
+#hr7{
+    position:absolute; 
+    top: 43%;
+    left: 110px;}   
+#hr8{
+    position:absolute;
+    top: 35%;
+    left: 40px;}
+#hr9{
+    position:absolute;
+    top: 25%;
+    left: 20px;}
+#hr10{
+    position:absolute;
+    top: 14%;
+    left: 20px;}
+#hr11{
+    position:absolute;
+    top: 5%;
+    left: 60px;}
+#hr12{
+    position:absolute;
+    top: -10px;
+    left: 190px;}
+
+
